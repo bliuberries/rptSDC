@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/sdc-brady/node_modules
+/sdc-brady/.pnp
+/sdc-brady.pnp.js
+
+# testing
+/sdc-brady/coverage
+
+# production
+/sdc-brady/build
+
+# misc
+/sdc-brady.DS_Store
+/sdc-brady.env.local
+/sdc-brady.env.development.local
+/sdc-brady.env.test.local
+/sdc-brady.env.production.local
+
+/sdc-brady/npm-debug.log*
+/sdc-brady/yarn-debug.log*
+/sdc-brady/yarn-error.log*
