@@ -1,0 +1,36 @@
+.wrapper {
+  width: 30%;
+  float: right;
+  padding-right: 20%;
+}
+
+.titleReview {
+  font-size: 14px;
+}
+
+.starWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.aLine {
+  border: lightgray .5px solid;
+}
+
+.primeIconPrice { 
+  width: 45%;
+  height: 25%;
+}
+
+.primeIconWrapper {
+  display: inline-block;
+  align-items: center;
+}
+
+.mainTitle {
+  font-size: 21px;
+  font: bold;
+  font-family: "Amazon Ember", Arial,sans-serif;
+
+
+}
